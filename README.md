@@ -80,7 +80,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |     ✔️     | [Proof](https://ibb.co/C94SCfs) |
 | [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |     ✔️     | [Proof](https://ibb.co/3MfTGv0) |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |     🚧     |              |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |     ✔️     | [Proof](https://ibb.co/yWHgcZr) |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |              |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
